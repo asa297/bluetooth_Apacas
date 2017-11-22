@@ -1,0 +1,7 @@
+#Tue Feb 14 21:30:06 ICT 2017
+base.0=C\:\\Users\\Rattanapol\\Desktop\\BLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b86c94c89afa2568fd7e6480cda230193bcdfcaa
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rattanapol\\Desktop\\BLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_935ae12790f22db18fd245d6096fff873013246a\\classes.dex
+base.1=C\:\\Users\\Rattanapol\\Desktop\\BLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_935ae12790f22db18fd245d6096fff873013246a
+file.0=C\:\\Users\\Rattanapol\\Desktop\\BLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b86c94c89afa2568fd7e6480cda230193bcdfcaa\\classes.dex
