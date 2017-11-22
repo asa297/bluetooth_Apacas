@@ -1,4 +1,6 @@
 
+get data from ardunio project
+
 Android BluetoothLeGatt Sample
 ===================================
 
